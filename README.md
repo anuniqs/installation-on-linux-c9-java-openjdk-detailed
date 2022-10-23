@@ -1,17 +1,17 @@
 
 ### OpenJDK Installation — Detailed
 
-#### Download required file —
+#### Download required file,
 
 Open JDK Site address :https://adoptium.net/temurin/releases/
 
-#### Extract —
+#### Extract,
 
 `[anup@c9-250-server ~]$ ls -ltr`
 
 `[anup@c9-250-server ~]$ tar -xvzf OpenJDK19U-jdk_x64_linux_hotspot_19_36.tar.gz`
 
-#### Configure —
+#### Configure,
 
 `[anup@c9-250-server ~]$ ls -ltr`
 
@@ -55,7 +55,7 @@ Open JDK Site address :https://adoptium.net/temurin/releases/
     
     
     
-#### Run and verify —
+#### Run and verify,
 
 `[anup@c9-250-server java-19]$ source ~/.bash_profile`
 
