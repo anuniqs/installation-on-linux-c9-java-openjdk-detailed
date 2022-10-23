@@ -1,15 +1,17 @@
 
 ### OpenJDK Installation — Detailed
 
-Open JDK Site address : [![](https://adoptium.net/favicon-32x32.png?v=3c8725a99800951594204e508d9aff1e)Latest Releases | Adoptium](https://adoptium.net/temurin/releases/)
+### Download required file —
 
-### Extract it —
+Open JDK Site address :https://adoptium.net/temurin/releases/
+
+### Extract —
 
 `[anup@c9-250-server ~]$ ls -ltr`
 
 `[anup@c9-250-server ~]$ tar -xvzf OpenJDK19U-jdk_x64_linux_hotspot_19_36.tar.gz`
 
-### Configuration it —
+### Configuration —
 
 `[anup@c9-250-server ~]$ ls -ltr`
 
@@ -21,7 +23,7 @@ Open JDK Site address : [![](https://adoptium.net/favicon-32x32.png?v=3c8725a998
 
 `[anup@c9-250-server java-19]$ pwd`
 
-    `/home/anup/java-19`
+    /home/anup/java-19
    
 `[anup@c9-250-server java-19]$ ls -ltr`
 
@@ -53,7 +55,7 @@ Open JDK Site address : [![](https://adoptium.net/favicon-32x32.png?v=3c8725a998
     
     
     
-### Run and verify it —
+### Run and verify —
 
 `[anup@c9-250-server java-19]$ source ~/.bash_profile`
 
