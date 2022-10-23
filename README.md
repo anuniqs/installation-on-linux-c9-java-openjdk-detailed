@@ -11,7 +11,7 @@ Open JDK Site address :https://adoptium.net/temurin/releases/
 
 `[anup@c9-250-server ~]$ tar -xvzf OpenJDK19U-jdk_x64_linux_hotspot_19_36.tar.gz`
 
-#### Configuration —
+#### Configure —
 
 `[anup@c9-250-server ~]$ ls -ltr`
 
