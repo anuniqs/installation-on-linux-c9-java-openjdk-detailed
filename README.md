@@ -1,7 +1,7 @@
 
 ### OpenJDK Installation — Detailed
 
-### Download required file —
+#### Download required file —
 
 Open JDK Site address :https://adoptium.net/temurin/releases/
 
