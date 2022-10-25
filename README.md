@@ -3,7 +3,12 @@
 
 #### Download required file,
 
-Open JDK Site address :https://adoptium.net/temurin/releases/
+Open JDK Site address : https://adoptium.net/temurin/releases/
+
+
+`[anup@c9-250-server ~]$ sudo dnf update`
+
+`[anup@c9-250-server ~]$ sudo dnf install epel-release epel-next-release`
 
 #### Extract,
 
